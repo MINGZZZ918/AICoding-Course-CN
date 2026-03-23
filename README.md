@@ -81,6 +81,8 @@
 
 本课程配有完整的视频教程（14 节课），添加微信免费领取：
 
+<img src="assets/wechat-qr.jpg" width="200" alt="微信二维码">
+
 **微信号：`lmzzz918`**
 
 添加时请备注：**AI Coding 课程**
